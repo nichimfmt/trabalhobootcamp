@@ -19,4 +19,5 @@ Para executar a imagem oficial diretamente do Docker Hub em qualquer máquina li
 ```bash
 docker run -d -p 8080:80 nickolasfmt/pokedex-bootcamp:latest
 
-# Após executar o comando acima, acesse no navegador: http://localhost:8080
+# Para abrir o site no navegador, acesse: http://localhost:8080
+# Opção alternativa (Windows) para abrir direto pelo terminal: start http://localhost:8080
